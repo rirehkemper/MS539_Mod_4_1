@@ -1,0 +1,41 @@
+﻿
+HIPAA Authorization for Release of Health Information
+Purpose: This form authorizes the collection, use, and disclosure of protected health information (PHI) for participation in adaptive sports and therapy events, including but not limited to water sports (swimming, paddleboarding, jet skiing), volleyball, driving simulation, video games, and soccer.
+
+1. Description of Information to be Collected:
+
+I understand that as part of my participation in the adaptive sports and therapy events, the following health information will be collected and stored:
+
+Medical history related to my ability to participate in physical activities
+Information about any disabilities or adaptive needs
+Relevant treatment or therapy plans
+Emergency contact and medical provider details
+This information may include records related to past or present health conditions, as well as information necessary to support my participation in the events.
+
+2. Purpose of Disclosure:
+
+This information will be used solely for the purpose of facilitating my participation in adaptive sports and therapy events. It will help organizers ensure that appropriate safety measures are in place and that the events are conducted in a manner that is safe and accessible to all participants.
+
+3. Information Recipients:
+
+The health information may be disclosed to:
+
+Event organizers and staff involved in the planning and execution of adaptive sports events
+Medical professionals available at the events for emergency or health management
+Technical staff involved in the secure storage and management of the data through the .NET application
+4. Expiration of Authorization:
+
+This authorization will expire one year from the date of signature unless otherwise revoked in writing by the participant or legal guardian.
+
+5. Revocation of Authorization:
+
+I understand that I may revoke this authorization at any time by providing written notice to the event organizers. However, I understand that any disclosures made prior to my revocation will not be affected.
+
+6. Signature and Acknowledgment:
+
+By checking on the "accept HIPPA Terms" check box, you acknowledge that you are a parent/guardian/individual that is of at least 18 years of age and that you consent to all of the above information.
+Contact Information for Questions:Julie Ann Rehkemper
+
+If you have any questions about this form or how your health information will be used, please contact:
+
+Event Organizer Contact: Julie_Rehkemper@gmail.com

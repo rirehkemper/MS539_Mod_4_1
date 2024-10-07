@@ -1,0 +1,22 @@
+First Name: Richard
+Middle Name: Allen
+Last Name: Rehkemper
+DOB : 01/22/2000
+userName: Allen
+phone: (123)456-7895
+email: someoneatemycookie@gmail.com
+password: DE20d
+email: someoneatemycookie@gmail.com
+sex: male
+-----------------new UserControl -------------- -
+First Name: JULIE
+Middle Name: ANN
+Last Name: REHKEMPER
+DOB : 09/23/2003
+userName: JULIE
+phone: 555-555-5555
+email: JANN112233@gmail.com
+password: ZT98z
+email: JANN112233@gmail.com
+sex: Female
+-----------------new UserControl -------------- -
